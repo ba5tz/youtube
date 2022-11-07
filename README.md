@@ -38,6 +38,14 @@
 [Data Iklan](https://www.prepostseo.com/tool/fake-address-generator)
 
 Judul Wikwik:
+
+```javascript I'm A tab
+console.log('Code Tab A');
+```
+```javascript I'm tab B
+console.log('Code Tab B');
+```
+
 ```js
 - HARI KEMENANGAN DESA WONOHARJO RW 14 - PREMBUN || PANGANDARAN 2022
 - TANGGESIN PAGERGUNUNG - PANGANDARAN
