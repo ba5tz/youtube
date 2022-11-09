@@ -19,17 +19,11 @@
 51.83.116.2:13351
 ```
 
-#### Cadangan
-```js
-162.19.7.57:63696
-51.254.167.45:52898
-174.138.176.74:20051
-89.58.45.94:40338
-```
-
+#### Data iklan
 [Data Iklan](https://www.prepostseo.com/tool/fake-address-generator)
 
 ##judul Channel Wikwik
+
 ```js
 - MANTAN PEMAIN CINGIRE BIKIN CHANNEL BARU - ORET CHANEL FILM PENDEK KEBUMEN - SAINGAN APA GAK ??
 ```
