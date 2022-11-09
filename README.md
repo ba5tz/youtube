@@ -24,6 +24,7 @@
 162.19.7.57:63696
 51.254.167.45:52898
 174.138.176.74:20051
+89.58.45.94:40338
 ```
 
 [Data Iklan](https://www.prepostseo.com/tool/fake-address-generator)
