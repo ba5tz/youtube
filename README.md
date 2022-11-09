@@ -1,7 +1,7 @@
 # youtube
 
 
-#### Proxy Canada
+#### Proxy Ausi
 ```js
 162.19.7.47:51911
 185.209.30.138:4810
