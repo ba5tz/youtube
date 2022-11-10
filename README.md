@@ -20,21 +20,21 @@
 #### Data iklan
 [Data Iklan](https://www.prepostseo.com/tool/fake-address-generator)
 
-##judul Channel Wikwik
+##judul SP
 
 ```js
-- MANTAN PEMAIN CINGIRE BIKIN CHANNEL BARU - ORET CHANEL FILM PENDEK KEBUMEN - SAINGAN APA GAK ??
+- KESERUAN,, KUDALUMPING REAK RAJAWALI DIJALAN RANCACATANG 4 November 2021
 ```
 ```js
-- HARI KEMENANGAN DESA WONOHARJO RW 14 - PREMBUN || PANGANDARAN 2022
+- Reak rajawali di babakan cianjur 07-09-19(1)
 ```
 ```js
-- Film pendek pangandaran ( nyonggah gabah )
+- Mutiara surya putra rancasawo 25-01-20 msp
 ```
 ```js
-- CINTA ANAK MUDA Wikwiw
+- DETIK2X GRANDONG KERASUKAN😱LINGKUNG SENI GENTRA BUANA (TANGGUH)❗PENTAS DI DERWATI 15-05-22
 ```
 ```js
-- TANGGESIN PAGERGUNUNG - PANGANDARAN
+- Reak rajawali di sapan rancakaso(1)
 ```
 
