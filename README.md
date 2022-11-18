@@ -1,32 +1,18 @@
 # youtube
 
 
-#### Proxy UK
-```js
-1. 51.83.116.3:60954
-2. 89.58.45.94:39883
-3. 190.2.136.37:41825
-4. 89.58.45.94:41451
-5. 89.58.45.94:41492
-6. 190.2.136.43:48042
-7. 190.2.136.37:19155
-8. 195.154.43.182:29201
-9. 195.154.43.86:50150
-```
-
 #### Proxy US
 ```js
-1. 66.29.129.54:38448
-2. 37.221.193.221:18283
-3. 162.19.7.56:38412
-4. 51.254.167.45:61791
-5. 51.68.244.19:17483
-6. 172.106.19.158:49612
-7. 172.106.13.202:38380
-8. 162.19.7.60:48941
-9. 172.106.19.155:38357
-10. 38.91.107.2:24034
-11. 38.91.107.2:62138
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
 ```
 
 
@@ -34,100 +20,20 @@
 [Data Iklan](https://www.prepostseo.com/tool/fake-address-generator)
 
 
-##judul Wikwiw
+##judul Mobil Jejer
 
 ```js
-HIPNOTIS LANGSUNG LEM3S || FILM PENDEK PANGANDARAN
+truk gandeng, kontainer, mobil polisi, mobil derek, excavator, mobil tambang, ambulans, truk sampah mobil jejer
 ```
 ```js
-MESIN WAKTU - Short Movie Wikwiw
+Container, damkar, ambulance, mobil derek, truk fuso, truk militer, truk molen, truk towing mobil jejer
 ```
 ```js
-KERUMAH BANG SENTOT || VLOG || Q&A ( PAGERGUNUNG )
+truk gandeng, tank baja, crane, damkar, thomas, kereta uap, excavator, mobil polisi, truk tambang mobil jejer
 ```
 ```js
-KOTAKU INDAH PANGANDARAN - Spesial ulang tahun kabupaten pangandaran ke 10 tahun.
+truk gandeng, truk oleng, mobil damkar, mobil tambang, mobil pertamina, mobil polisi, mobil ambulans mobil jejer
 ```
 ```js
-HAMIL DI LUAR NIK4H Wikwiw
-```
-```js
-Film pendek pangandaran ( nyonggah gabah )
-```
-```js
-MAIN SAMA TETANGGA Wikwiw
-```
-```js
-PENGAMEN SUKSES Wikwiw
-```
-```js
-MANTAN PEMAIN CINGIRE BIKIN CHANNEL BARU - ORET CHANEL FILM PENDEK KEBUMEN - SAINGAN APA GAK ??
-```
-```js
-dedeka kembar #CINGIRE || CINGIRE COLLAB WIKWIW ( short movie )
-```
-
-##judul SP
-
-```js
-Reak rajawali di sapan rancakaso(1)
-```
-```js
-lingkung seni|| kuda lumping|| mega pakuan|| pentas di kp derwati
-```
-```js
-PROSES DI JADIKEUN 2 BARONG NAGA💥LINGKUNG SENI MUSTIKA MEKAR SILIWANGI❗PENTAS DI LEWI MUNDING‼‼
-```
-```js
-AKSI GRANDONG DI LINGKUNG SENI REAK RAJAWALI (SPMS)❗PENTAS DI KP CIPUTAT
-```
-```js
-IGEULAN BARONG MERAH💥LINGKUNG SENI MEGA PAKUAN❗ PENTAS DI KP RANCABOLANG GDE BAGE 31-11-21❗
-```
-```js
-Mutiara surya putra rancasawo 25-01-20 msp
-```
-```js
-GRANDONG WARNA BIRU BERBEDA DARI YANG LAIN😱LINGKUNG SENI PUTRA MEKAR SALUYU💥LIVE IN LEWI NUTUG❕
-```
-```js
-PROSESI HANOMAN KESURUPAN❕LINGKUNG SENI MEDAL PUTIH WARINGIN SARI❗PENTAS DI BOJONG EMAS 13-03-22
-```
-```js
-BUBUKA ❗LINGKUNG SENI KUDA LUMPING MEGA PAKUAN💥 PENTAS DI KP RANCABOLANG GEDE BAGE 06-11-21❗
-```
-```js
-KIDUNG BUBUKA❗REAK RAJAWALI (SPMS) PENTAS DI SAPAN RANCALAME (HARI INI)
-```
-
-##judul e-sport
-```js
-GTA V RP BTS | KEISENGAN SKY PEMBAWA MAUT !!! PART 3
-```
-```js
-GTA V RP BTS | SKUAD PAOK KEMBALI MAIN MALAH BERULAH !!!!! PART 2
-```
-```js
-GTA V RP | SKY DAN RYZEN GA TAHAN DI BUAT NGAKAK TERUS SAMA BOCIL PAOK INI !!!!
-```
-```js
-GTA V RP | KOCAKNYA SKY DAN RYZEN DIKERJAI BOCIL PAOK INI !!!!
-```
-```js
-LAWAKAN SKY EMANG MVP | VIVI DAN JEHA AUTO NGAKAK
-```
-```js
-CEWE BANGPEN MAU DI EMBAT JUGA SAMA SKY | SKY EMANG GA ADA OBAT SOAL BEGINIAN !!!
-```
-```js
-BARU KENAL UDAH PANGGIL SAYANG AJA | SIAPA KALI INI CEWE NYA ?
-```
-```js
-GTA V RP SOI | PERTEMUAN PERTAMA PEMBAWA PETAKA !! NGAKAK SKY DIBULLY HABIS HABISAN !!!
-```
-```js
-KOCAK !!! REACTION TIKTOK SKUAD PAOK - PART 2
-```
-```js
-ANGIE NGAKAK RYZEN NYALAHIN MICROBOY SAAT MASIH DI BTR .
+truk gandeng, speedboat, truk oleng, truk tambang, ambulans, kereta thomas, truk towing, truk tanki mobil jejer
 ```
