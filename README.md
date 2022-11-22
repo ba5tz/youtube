@@ -24,17 +24,17 @@
 ##judul Mobil Jejer
 
 ```js
-mobil damkar, truk sampah, speedboat, helikopter, mobil beko, ambulans, mobil grap, truk towing mobil jejer
+truk gandeng, speedboat, truk oleng, truk tambang, ambulans, kereta thomas, truk towing, truk tanki mobil jejer
 ```
 ```js
 mobil molen, damkar, mobil balap, truk sampah, offroad, kereta uap, mobil polisi, truk gandeng mobil jejer
-```
-```js
-truk gandeng, speedboat, truk oleng, truk tambang, ambulans, kereta thomas, truk towing, truk tanki mobil jejer
 ```
 ```js
 truk gandeng, tank baja, hellikopter, truk towing, ambulans, speedboat, bulldozer, mobil jeep mobil jejer
 ```
 ```js
 bus tayo, truk gandeng, thomas, truk sampah, kereta uap, truk kontainer, ambulas, mobil roket mobil jejer
+```
+```js
+excavator, mobil polisi, damkar, crane, thomas, kereta uap, truk kontainer, truk tambang, ambulans mobil jejer
 ```
