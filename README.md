@@ -38,6 +38,9 @@
 #### Data iklan
 [Data Iklan](https://www.prepostseo.com/tool/fake-address-generator)
 
+#### Playlist
+[Playlist Jejer](https://youtube.com/playlist?list=PLm1f3GEEI-PNXkX0r5tCwdxFvAr2gpnvb)
+
 
 ##judul Mobil Jejer
 
