@@ -40,6 +40,7 @@
 
 #### Playlist
 [Playlist Jejer](https://youtube.com/playlist?list=PLm1f3GEEI-PNXkX0r5tCwdxFvAr2gpnvb)
+[Playlist Jejer Anin](https://youtube.com/playlist?list=PLLO53DDvf_gHPJ-dfQF74koCD3bHdp0hM)
 
 
 ##judul Mobil Jejer
