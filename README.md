@@ -42,14 +42,14 @@
 truk gandeng, speedboat, truk oleng, truk tambang, ambulans, kereta thomas, truk towing, truk tanki mobil jejer
 ```
 ```js
-bus tayo, truk gandeng, thomas, truk sampah, kereta uap, truk kontainer, ambulas, mobil roket mobil jejer
-```
-```js
 truk gandeng, tank baja, hellikopter, truk towing, ambulans, speedboat, bulldozer, mobil jeep mobil jejer
 ```
 ```js
-truk towing, excavator, thomas, mobil roket, kereta uap, crane, truk kontainer, offroad, ambulans mobil jejer
+bus tayo, truk gandeng, thomas, truk sampah, kereta uap, truk kontainer, ambulas, mobil roket mobil jejer
 ```
 ```js
-excavator, mobil polisi, damkar, crane, thomas, kereta uap, truk kontainer, truk tambang, ambulans mobil jejer
+tank baja, truk towing, truk gandeng, bus tayo, mobil polisi, truk sampah, truk molen, mobil tambang mobil jejer
+```
+```js
+truk gandeng, sepedah, truk towing, mobil damkar, speedboat, mobil tangga, container, mobil tangki mobil jejer
 ```
